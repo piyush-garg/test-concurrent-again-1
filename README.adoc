@@ -6,8 +6,7 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 
 == Runing the Booster Locally
 
-To run this booster on your local host:
-
+To run this booster on your lo
 [source,bash,options="nowrap",subs="attributes+"]
 ----
 $ git clone git@github.com:piyush1594/test-concurrent-again-1
